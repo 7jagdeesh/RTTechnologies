@@ -1,0 +1,77 @@
+1. Programming Languages
+	a. Python
+	b. Node
+	c. Ruby
+2. Source Control
+	a. Versioning -> Git Tool
+	b. Repository -> Github.com
+3. Operating Systems
+	a. Linux
+		i. Basic Linux Commands ('$_' BASH)
+ls,  APT /YUM
+GREP, LSOF
+UNAME, SS
+UPTIME, NETSTAT
+TOP,  MOUNT
+MAN, TOP
+		ii. You Should know the directories files
+		iii. '>_' SSH
+	b. Windows
+4. Networking
+	a.DNS Name Resolution (how to trubleshoot, Client & Server)
+	b.SUBNETTING
+	c.GATEWAYS
+	d.DHCP/NAT
+	e.HTTP
+	f. Firewalls
+		i.INCOMING/OUTGOING
+		ii.STATEFUL/NON-STATEFUL
+		iii.LAYER3-7 FIREWALLS
+	g. Loadbalancers
+		i.ROUND ROBIN
+		ii.WEIGHTED ROUND ROBIN
+		iii.LEAST CONNECTIONS
+		iv.RESOURCE BASED
+	h. Proxy Servers
+		i.TRAFFIC FLOW
+		ii.FORWARD/REVERSE
+5. Cloud Providers
+	a. AWS
+	b. AZURE
+	c. GCP
+6. Infrastructure as Code
+	a. Terraform
+7. Containers
+	a. Docker
+		i. Container Management
+		ii.Image Management
+		iii.Inspecting containers
+		iv.Docker Networking
+		v.Docker Volumes
+		vi.Creating Dockerfiles
+		vii.Using Docker-Compose
+8. Orchestration
+	a. Kuberneties ( Cluster, POD's worker node)
+		i.Good Understanding of Docker
+		ii.Create a lab environment
+		iii.Minikube is a great option
+	b. Docker Swarm
+9. Configuration Management
+	a. Ansible (Running Playbook)
+	b. SALTSTACK
+	c. PUPPET
+	d. CHEF
+10. CI/CD PIPELINES
+	a. QA
+	b. Staging
+	c. Production
+	d. Linting (Automated checking of your source code for programmatic and stylistic errors)
+	e. Dependency Checks
+	f. Unit Tests
+	g. Architecture Tests
+Tools (Gitlab, Github Actions, TravisCI, Jenkins) we can use any of these for CI process
+11. Monitoring and LOG Management
+	a. Grafana
+	b. ELK Stack
+	c. Splunk
+	d. Prometheus
